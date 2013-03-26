@@ -20,7 +20,7 @@ and discuss how to merge and continue after 0.3 release.
 Currently we focus on collecting ideas, and getting users feedback. 
  For that we promote our project in developers communities and to our friends.
  
-We are to come to regular releases in the future. But for now shaping of project (what to include) is a undetermined.
+We are to come to regular releases in the future. But for now shaping of project (what to include) is undetermined.
 
 ## Distribution
 
