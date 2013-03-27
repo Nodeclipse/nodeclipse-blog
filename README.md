@@ -31,7 +31,7 @@ Download site v>0.2 (Nodeclipse-1): <code>http://www.tomotaro1065.com/nodeclipse
 
 [https://github.com/PaulVI/eclipse-node-ide](https://github.com/PaulVI/eclipse-node-ide) repository (aka Enide) is for distributing Nodeclipse together with other plugins.
 
-We are expecting to have Nodeclipse on [Eclipse Marketspace](http://marketplace.eclipse.org/)
+[Nodeclipse on Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse)
 
 <!--
 Maybe later have own Eclipse distribution.
