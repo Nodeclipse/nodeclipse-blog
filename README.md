@@ -51,6 +51,8 @@ Expected for Nodeclipse 0.3
 [t#3 [Feature Request] allow passing arguments](https://github.com/tomotaro1065/nodeclipse/issues/3)  
 [n#2 on x64 windows doesn't find NodeJS dir automatically](https://github.com/Nodeclipse/nodeclipse/issues/2)
 
+## Small issues
 
+Nodeclipse has no support for black background color schemes.
 
 Please add your ideas below. 
