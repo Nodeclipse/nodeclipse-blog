@@ -44,4 +44,13 @@ For organization questions, create issue or send [email to dev group](mailto:dev
  
 added by Paul Verest, 2013/3/26
 
+## Roadmap
+
+Expected for Nodeclipse 0.3
+
+[t#3 [Feature Request] allow passing arguments](https://github.com/tomotaro1065/nodeclipse/issues/3)  
+[n#2 on x64 windows doesn't find NodeJS dir automatically](https://github.com/Nodeclipse/nodeclipse/issues/2)
+
+
+
 Please add your ideas below. 
