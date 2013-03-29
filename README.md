@@ -4,7 +4,8 @@
 
 ## Repositories
 
-[Nodeclipse organization](https://github.com/Nodeclipse/) has several repositories. Use star to vote what you think is most important.
+[Nodeclipse organization](https://github.com/Nodeclipse/) has several [repositories](https://github.com/Nodeclipse/repositories).
+ Use star to vote what you think is most important.
 
 Main effort is Nodeclipse Eclipse plugin. Currently is has 2 repositories:
 
@@ -22,7 +23,7 @@ and discuss how to merge and continue after 0.3 release.
 Currently we focus on collecting ideas, and getting users feedback. 
  For that we promote our project in developers communities and to our friends.
  
-We are to come to regular releases in the future. But for now shaping of project (what to include) is undetermined.
+We are to come to regular releases in the future. But for now it is about shaping of project.
 
 ## Distribution
 
@@ -57,6 +58,7 @@ Expected for Nodeclipse 0.3
 - Update template for new project
 * Add README.md template
 * Add hello-world-server.js
+* Add package.json (This is good practice)
 * [Publish](http://marketplace.eclipse.org/quickstart) on [Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse)
 
 [t#3 [Feature Request] allow passing arguments](https://github.com/tomotaro1065/nodeclipse/issues/3)  
