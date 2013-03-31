@@ -35,7 +35,7 @@ Download site v>0.2 (Nodeclipse-1): <code>http://www.tomotaro1065.com/nodeclipse
 Nodeclipse v0.2.0 was [published on Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse) on March 27th 2013.
 
 [https://github.com/PaulVI/eclipse-node-ide](https://github.com/PaulVI/eclipse-node-ide) repository (aka Enide)
- is for distributing Nodeclipse together with other plugins.
+ is for [distributing Nodeclipse together with other plugins](https://github.com/PaulVI/eclipse-node-ide/blob/master/EclipseNodeIDE-0.2.p2f).
 
 Eclipse distribution called [Node on Eclipse Studio (NES)](https://github.com/Nodeclipse/Node-Eclipse-Studio) is under investigation.
 
