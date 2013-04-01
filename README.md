@@ -58,7 +58,7 @@ Below is list that we know Nodeclipse can run on:
 - STS 3.1.0.RELEASE, 3.2.0.RELEASE (based on Eclipse 3.8.1, 3.8.2 Juno) 
 - JBoss Developer Studio Version: 6.0.0.GA
 
-*If you work configuration used with Nodeclipse is different, please let us know*
+*If your work configuration used with Nodeclipse is different, please let us know*
 
 ## Roadmap
 
@@ -89,3 +89,18 @@ Expected for Nodeclipse 0.3
 Nodeclipse has no support for black background color schemes.
 
 Please add your ideas below. 
+
+## Contacts
+Do not hesitate to contact developers. 
+Create issue or send [email to dev group](mailto:dev@nodeclipse.org).
+Or skype me by ID pverest, QQ 908781544.
+
+## For Bloggers and Users of Twitter, Flickr, LinkedIn, Weibo etc.
+
+In case you plan to blog or tweet about the Nodeclipse plugin, please use the tags #nodeclipse #enide
+ in order to make it easier to find all the comments and pictures. Thanks a lot for telling the world about the project!  
+  | 请用#nodeclipse# #enide# 标签微博一下。  
+  | Por favor, utilizar etiqueta #nodeclipse #enide 
+  | ツイートする時は、＃nodeclipse #enide タグを使用してください。  
+  | Bitte benutzen Sie tag #nodeclipse #enide um zu twiten.
+

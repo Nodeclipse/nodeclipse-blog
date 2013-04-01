@@ -1,4 +1,13 @@
 
+## General
+
+### How to start using Nodeclipse with existing Node.js project?
+
+Just select existing location with new Node Project Wizard  
+File -> New -> Node Project
+
+This will add Eclipse .project file, and shows your files in Project Explorer.
+
 ## chromedevtools
 
 ### What will happen if user already had standard chromedevtools and installs Nodeclipse 0.2 ?
