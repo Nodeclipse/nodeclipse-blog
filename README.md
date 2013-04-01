@@ -46,6 +46,20 @@ For organization questions, create issue or send [email to dev group](mailto:dev
  
 added by Paul Verest, 2013/3/26
 
+## Tested platforms
+
+We don't have goal to test Nodeclipse-1 plugin on all possible [Eclipse distribution](http://www.eclipse.org/downloads/). It just works for us.
+
+Below is list that we know Nodeclipse can run on:
+
+- Eclipse for JavaEE Developers (4.2.2) Juno (Windows x32, x64)
+- Eclipse for Testers (4.2.2) Juno 
+- Eclipse for RCP & RAP Developers (4.2.2) Juno
+- STS 3.1.0.RELEASE, 3.2.0.RELEASE (based on Eclipse 3.8.1, 3.8.2 Juno) 
+- JBoss Developer Studio Version: 6.0.0.GA
+
+*If you work configuration used with Nodeclipse is different, please let us know*
+
 ## Roadmap
 
 Expected for Nodeclipse 0.3
@@ -64,7 +78,13 @@ Expected for Nodeclipse 0.3
 [t#3 [Feature Request] allow passing arguments](https://github.com/tomotaro1065/nodeclipse/issues/3)  
 [n#2 on x64 windows doesn't find NodeJS dir automatically](https://github.com/Nodeclipse/nodeclipse/issues/2)
 
-## Small issues
+### 0.4 (May-June-July 2013)
+
+- JSquared Editor
+
+## Known Issues and Limitations
+
+### Small issues
 
 Nodeclipse has no support for black background color schemes.
 
