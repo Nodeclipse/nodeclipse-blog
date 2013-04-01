@@ -7,7 +7,7 @@
 [Nodeclipse organization](https://github.com/Nodeclipse/) has several [repositories](https://github.com/Nodeclipse/repositories).
  Use star to vote what you think is most important.
 
-Main effort is Nodeclipse Eclipse plugin. Currently is has 2 repositories:
+Main effort is Nodeclipse Eclipse plugin. Currently it has 2 repositories:
 
 [https://github.com/Nodeclipse/nodeclipse/](https://github.com/Nodeclipse/nodeclipse/) v0.1.8 by LambGao; update 4 months ago;  
  web-site [http://www.nodeclipse.org/](http://www.nodeclipse.org/)
@@ -53,10 +53,10 @@ We don't have goal to test Nodeclipse-1 plugin on all possible [Eclipse distribu
 Below is list that we know Nodeclipse can run on:
 
 - Eclipse for JavaEE Developers (4.2.2) Juno (Windows x32, x64)
-- Eclipse for Testers (4.2.2) Juno 
 - Eclipse for RCP & RAP Developers (4.2.2) Juno
+- Eclipse for Testers (4.2.2) Juno 
 - STS 3.1.0.RELEASE, 3.2.0.RELEASE (based on Eclipse 3.8.1, 3.8.2 Juno) 
-- JBoss Developer Studio Version: 6.0.0.GA
+- JBoss Developer Studio version 6.0.0.GA
 
 *If your work configuration used with Nodeclipse is different, please let us know*
 
@@ -69,6 +69,7 @@ Expected for Nodeclipse 0.3
 - Add [Markdown](http://daringfireball.net/projects/markdown/dingus) support via [Markdown Editor plugin for Eclipse]
 (http://www.winterwell.com/software/markdown-editor.php) developped by [Daniel Winterstein](http://winterstein.me.uk)  
 	Download site: http://winterwell.com/software/updatesite/
+- Add JSHInt integration	
 - Update template for new project
 * Add README.md template
 * Add hello-world-server.js
@@ -88,7 +89,11 @@ Expected for Nodeclipse 0.3
 
 Nodeclipse has no support for black background color schemes.
 
+## Ideas
+
 Please add your ideas below. 
+
+...
 
 ## Contacts
 Do not hesitate to contact developers. 
