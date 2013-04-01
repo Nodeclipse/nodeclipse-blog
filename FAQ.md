@@ -27,7 +27,7 @@ But we must always keep in mind the current version of standard chromedevtools.
 ### So what will happen if chromedevtools 0.3.9 or chromedevtools 0.4.0 are released?
 
 We must update the version of our chromedevtools to 0.4.1 ASAP.
-Otherwise, Nodeclipse will not work correctly. But It will be affected only debugging features.
+Otherwise, Nodeclipse will not work correctly. But it will be affected only for debugging features.
 
 ## Markdown Editor
 
