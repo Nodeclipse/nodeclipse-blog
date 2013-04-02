@@ -5,7 +5,7 @@
 ## Repositories
 
 [Nodeclipse organization](https://github.com/Nodeclipse/) has several [repositories](https://github.com/Nodeclipse/repositories).
- Use star to vote what you think is most important.
+ Use star to vote on what feature/repository, you think is most important.
 
 Main effort is Nodeclipse Eclipse plugin. Currently it has 2 repositories:
 
@@ -34,8 +34,8 @@ Download site v>0.2 (Nodeclipse-1): <code>http://www.tomotaro1065.com/nodeclipse
 
 Nodeclipse v0.2.0 was [published on Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse) on March 27th 2013.
 
-[https://github.com/PaulVI/eclipse-node-ide](https://github.com/PaulVI/eclipse-node-ide) repository (aka Enide)
- is for [distributing Nodeclipse together with other plugins](https://github.com/PaulVI/eclipse-node-ide/blob/master/EclipseNodeIDE-0.2.p2f).
+[https://github.com/Nodeclipse/eclipse-node-ide](https://github.com/Nodeclipse/eclipse-node-ide) repository (aka Enide)
+ is for [distributing Nodeclipse together with other plugins](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/EclipseNodeIDE-0.2.p2f).
 
 Eclipse distribution called [Node on Eclipse Studio (NES)](https://github.com/Nodeclipse/Node-Eclipse-Studio) is under investigation.
 
@@ -62,8 +62,6 @@ Below is list that we know Nodeclipse can run on:
 
 ## Roadmap
 
-Expected for Nodeclipse 0.3
-
 ### 0.3 (April-May 2013)
 
 - Add [Markdown](http://daringfireball.net/projects/markdown/dingus) support via [Markdown Editor plugin for Eclipse]
@@ -76,12 +74,20 @@ Expected for Nodeclipse 0.3
 * Add package.json (This is good practice)
 * [Publish](http://marketplace.eclipse.org/quickstart) on [Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse)
 
-[t#3 [Feature Request] allow passing arguments](https://github.com/tomotaro1065/nodeclipse/issues/3)  
-[n#2 on x64 windows doesn't find NodeJS dir automatically](https://github.com/Nodeclipse/nodeclipse/issues/2)
+* [t#3 [Feature Request] allow passing arguments](https://github.com/tomotaro1065/nodeclipse/issues/3)  
+* [n#2 on x64 windows doesn't find NodeJS dir automatically](https://github.com/Nodeclipse/nodeclipse/issues/2)
 
 ### 0.4 (May-June-July 2013)
 
 - JSquared Editor
+- When creating Node project and folder already exists, then add only .project file and don't add 3 files (README.md, hello-world-server.js, package.json)
+- Add Express Project in main menu under File -> New (in Node perspective)
+
+### Next
+
+* [t#4 [Low priority enhancement] Option to Run project default module (taken from package.json), 
+ when righ-clicking project folder](https://github.com/tomotaro1065/nodeclipse/issues/4)
+
 
 ## Known Issues and Limitations
 
