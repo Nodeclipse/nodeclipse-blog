@@ -8,6 +8,15 @@ File -> New -> Node Project
 
 This will add Eclipse .project file, and shows your files in Project Explorer.
 
+### I got out of memory error!
+
+Enable Preferences -> General -> Show heap status
+
+Check your memory usage before and after Nodeclipse usage.
+Likely you are already running low on memory, configure your Eclipse.
+
+NOTE Eclipse runtime doesn't load plugin, until it is used (aka lazy loading).  
+
 ## chromedevtools
 
 ### What will happen if user already had standard chromedevtools and installs Nodeclipse 0.2 ?
