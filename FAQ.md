@@ -44,3 +44,11 @@ Otherwise, Nodeclipse will not work correctly. But it will be affected only for 
 
 Read information on [site](http://www.winterwell.com/software/markdown-editor.php)
 File an issue on [gitHub](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin/issues) 
+
+## JSHint
+
+### What is JSHint?
+
+[JSHint](http://www.jshint.com/) (from [Wikipedia](http://en.wikipedia.org/wiki/JSHint) )
+ is a static code analysis tool for JavaScript.
+[JSHint](http://www.jshint.com/) is a tool to detect errors and potential problems in JavaScript. 
