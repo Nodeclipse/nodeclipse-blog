@@ -6,6 +6,9 @@
 
 We got **150+** installs in the first week on [Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse)!
 
+Check also [blog itself](https://github.com/Nodeclipse/nodeclipse-blog/blob/master/Blog.md) and 
+ Eclipse Node IDE [Hints](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md)
+
 ## Vision
 
 One-stop shop for Node.js tools.
@@ -56,6 +59,8 @@ Main effort is Nodeclipse Eclipse plugin. Currently it has 2 repositories:
 [https://github.com/tomotaro1065/nodeclipse/](https://github.com/tomotaro1065/nodeclipse/) v0.2
  (and expected 0.3) by Tomoyuki Inagaki; in development;  
  web-site [http://www.tomotaro1065.com/nodeclipse/](http://www.tomotaro1065.com/nodeclipse/)
+
+**Versions after 0.3 are expected to go on in [one place](https://github.com/Nodeclipse/).**
 
 This may be source of confusion, but we expect to clone tomotaro1065 repository into [Nodeclipse organization](https://github.com/Nodeclipse/),
 and discuss how to merge and continue after 0.3 release. 

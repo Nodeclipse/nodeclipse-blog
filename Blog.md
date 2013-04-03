@@ -1,7 +1,7 @@
 
 ## VJET
 
-Paul has tried VJET together with Nodeclipse.
+Paul has tried [VJET](http://eclipse.org/vjet/) together with Nodeclipse.
 
 ![node-vjet-perspective-switching.PNG](Pictures/node-vjet-perspective-switching.PNG)
 
@@ -22,7 +22,7 @@ Use default simple Eclipse configuration:
 		</natures>
 	</projectDescription>
 	
-This one configuration can can produce beautiful picture, see below, but 
+This one configuration below can produce beautiful picture, see below, but 
 **Unfortunately it fails after packages download into <code>node_modules</code>.**
 
 	<?xml version="1.0" encoding="UTF-8"?>
@@ -54,6 +54,8 @@ So stick to 1st example provided.
 
 ### View in VJET perspective
 
+This only works until packages download into <code>node_modules</code>.
+
 ![node-vjet-script-expoler.PNG](Pictures/node-vjet-script-expoler.PNG)
 
 VJET [JavaScript] Editor has outline (seen on the first picture).  
@@ -66,3 +68,18 @@ VJET also comes with good Eclipse Help (Help -> Help contents).
 
 VJET browsing perspective doesn't support Node projects without vjet nature.
 But with vjet nature, it again gets blurred, after packages download into <code>node_modules</code>.
+
+### VJET conclusion
+
+Only editor can do some help.
+
+## Recommendations
+
+### Sources
+
+Put all sources under <code>src</code> folder.
+
+This will help to separate project code from libraries code.
+
+Or even better organize as <code>src/main</code> and <code>src/test</code>
+
