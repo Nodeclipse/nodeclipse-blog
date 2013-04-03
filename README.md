@@ -2,6 +2,47 @@
 
 [Nodeclipse team blog](https://github.com/Nodeclipse/nodeclipse-blog#blog)
 
+## News
+
+We got **150+** installs in the first week on [Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse)!
+
+## Vision
+
+One-stop shop for Node.js tools.
+
+We can't develop everything at once, but we let you know what are the best things around for Node.js development with Eclipse.
+
+## Features
+
+* Creating default structure for New Node Project and New Node Source File 
+* Creating new [Express](http://expressjs.com/) project
+* JavaScript Syntax highlighting
+* Content Assistant
+* NPM support
+* Debugging - Breakpoint, Trace, etc... via [Eclipse debugger plugin for V8](http://code.google.com/p/chromedevtools/)
+* Markdown (*.md files support; see Enide below) 
+* Support for Juno
+
+## Installing
+
+Download site v0.1.8: http://www.nodeclipse.org/updates  
+Download site v>0.2 (Nodeclipse-1): http://www.tomotaro1065.com/nodeclipse/updates/
+or via [Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse)
+
+## Usage
+
+Check out [great article](http://www.tomotaro1065.com/nodeclipse/) and [watch video](http://tomotaro1065.github.com/nodeclipse/index2.htm).    
+For debugging check [Using-Eclipse-as-Node-Applications-Debugger]( https://github.com/joyent/node/wiki/Using-Eclipse-as-Node-Applications-Debugger)
+
+For [Markdown](http://daringfireball.net/projects/markdown/dingus): 
+
+1. Window -> Show View -> Other... -> Markdown
+2. Click inside "Markdown HTML Preview" view to refresh rendering
+3. (Optional, may be useful because double whitespace is hard line break) 
+	Show whitespace character via Preferences > General > Editors > Text Editors : checkbox labeled "Show whitespace characters"
+
+# Developing & Contributing
+
 ## Repositories
 
 [Nodeclipse organization](https://github.com/Nodeclipse/) has several [repositories](https://github.com/Nodeclipse/repositories).
@@ -34,8 +75,10 @@ Download site v>0.2 (Nodeclipse-1): <code>http://www.tomotaro1065.com/nodeclipse
 
 Nodeclipse v0.2.0 was [published on Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse) on March 27th 2013.
 
+#### Enide
+
 [https://github.com/Nodeclipse/eclipse-node-ide](https://github.com/Nodeclipse/eclipse-node-ide) repository (aka Enide)
- is for [distributing Nodeclipse together with other plugins](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/EclipseNodeIDE-0.2.p2f).
+ is for [distributing](https://raw.github.com/PaulVI/eclipse-node-ide/master/EclipseNodeIDE-0.2.p2f) Nodeclipse together with other plugins.
 
 Eclipse distribution called [Node on Eclipse Studio (NES)](https://github.com/Nodeclipse/Node-Eclipse-Studio) is under investigation.
 
@@ -103,8 +146,8 @@ Please add your ideas below.
 
 ## Contacts
 Do not hesitate to contact developers. 
-Create issue or send [email to dev group](mailto:dev@nodeclipse.org).
-Or skype me by ID pverest, QQ 908781544.
+Create issue to appropriate [repository](https://github.com/Nodeclipse/repositories) or send [email to dev group](mailto:dev@nodeclipse.org).
+Or skype by ID pverest; or QQ 908781544.
 
 ## For Bloggers and Users of Twitter, Flickr, LinkedIn, Weibo etc.
 
