@@ -78,7 +78,7 @@ Nodeclipse v0.2.0 was [published on Eclipse Marketspace](http://marketplace.ecli
 #### Enide
 
 [https://github.com/Nodeclipse/eclipse-node-ide](https://github.com/Nodeclipse/eclipse-node-ide) repository (aka Enide)
- is for [distributing](https://raw.github.com/PaulVI/eclipse-node-ide/master/EclipseNodeIDE-0.2.p2f) Nodeclipse together with other plugins.
+ is for [distributing](https://raw.github.com/Nodeclipse/eclipse-node-ide/master/EclipseNodeIDE-0.2.p2f) Nodeclipse together with other plugins.
 
 Eclipse distribution called [Node on Eclipse Studio (NES)](https://github.com/Nodeclipse/Node-Eclipse-Studio) is under investigation.
 
