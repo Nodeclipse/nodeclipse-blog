@@ -46,6 +46,8 @@ For [Markdown](http://daringfireball.net/projects/markdown/dingus):
 
 # Developing & Contributing
 
+Until repositories updated, you can add issue to this blog repository.
+
 ## Repositories
 
 [Nodeclipse organization](https://github.com/Nodeclipse/) has several [repositories](https://github.com/Nodeclipse/repositories).
