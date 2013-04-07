@@ -4,7 +4,8 @@
 
 ## News
 
-We got **150+** installs in the first week on [Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse)!
+We got **150+** installs in the first week on [Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse)!  
+nodeclipse-1 moved to [https://github.com/Nodeclipse/nodeclipse-1](https://github.com/Nodeclipse/nodeclipse-1)
 
 Check also [blog itself](https://github.com/Nodeclipse/nodeclipse-blog/blob/master/Blog.md) and 
  Eclipse Node IDE [Hints](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md)
@@ -53,21 +54,14 @@ Until repositories updated, you can add issue to this blog repository.
 [Nodeclipse organization](https://github.com/Nodeclipse/) has several [repositories](https://github.com/Nodeclipse/repositories).
  Use star to vote on what feature/repository, you think is most important.
 
-Main effort is Nodeclipse Eclipse plugin. Currently it has 2 repositories:
-
-[https://github.com/Nodeclipse/nodeclipse/](https://github.com/Nodeclipse/nodeclipse/) v0.1.8 by LambGao; update 4 months ago;  
- web-site [http://www.nodeclipse.org/](http://www.nodeclipse.org/)
- 
-[https://github.com/tomotaro1065/nodeclipse/](https://github.com/tomotaro1065/nodeclipse/) v0.2
+Main effort is Nodeclipse-1 Eclipse plugin. 
+[https://github.com/Nodeclipse/nodeclipse-1](https://github.com/Nodeclipse/nodeclipse-1) v0.2
  (and expected 0.3) by Tomoyuki Inagaki; in development;  
  web-site [http://www.tomotaro1065.com/nodeclipse/](http://www.tomotaro1065.com/nodeclipse/)
 
-**Versions after 0.3 are expected to go on in [one place](https://github.com/Nodeclipse/).**
-
-This may be source of confusion, but we expect to clone tomotaro1065 repository into [Nodeclipse organization](https://github.com/Nodeclipse/),
-and discuss how to merge and continue after 0.3 release. 
-<!-- The cause was moving original repository into new GitHub Nodeclipse organization. -->
-
+Old repository [https://github.com/Nodeclipse/nodeclipse/](https://github.com/Nodeclipse/nodeclipse/) v0.1.8 by LambGao; update 4 months ago;  
+ web-site [http://www.nodeclipse.org/](http://www.nodeclipse.org/)
+ 
 Currently we focus on collecting ideas, and getting users feedback. 
  For that we promote our project in developers communities and to our friends.
  
@@ -82,11 +76,11 @@ Download site v>0.2 (Nodeclipse-1): <code>http://www.tomotaro1065.com/nodeclipse
 
 Nodeclipse v0.2.0 was [published on Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse) on March 27th 2013.
 
-This button
-<a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140" title="Drag and drop into a running Eclipse Indigo workspace to install Nodeclipse">
+Drag and drop this
+<a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140" title="Drag and drop into a running Eclipse Indigo workspace to install Nodeclipse-1">
   <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
 </a>
-
+into running Eclipse (for Indigo, Juno or Kepler).
 
 #### Enide
 
