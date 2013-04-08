@@ -107,6 +107,7 @@ Below is list that we know Nodeclipse can run on:
 - Eclipse for Testers (4.2.2) Juno 
 - STS 3.1.0.RELEASE, 3.2.0.RELEASE (based on Eclipse 3.8.1, 3.8.2 Juno) 
 - JBoss Developer Studio version 6.0.0.GA
+- eclipse-platform-4.3M6
 
 *If your work configuration used with Nodeclipse is different, please let us know*
 
