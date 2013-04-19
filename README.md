@@ -114,26 +114,15 @@ Below is list that we know Nodeclipse can run on:
 
 ## Roadmap
 
-### 0.3 (April-May 2013)
-
-- Add [Markdown](http://daringfireball.net/projects/markdown/dingus) support via [Markdown Editor plugin for Eclipse]
-(http://www.winterwell.com/software/markdown-editor.php) developped by [Daniel Winterstein](http://winterstein.me.uk)  
-	Download site: http://winterwell.com/software/updatesite/
-- Add JSHInt integration	
-- Update template for new project
-* Add README.md template
-* Add hello-world-server.js
-* Add package.json (This is good practice)
-* [Publish](http://marketplace.eclipse.org/quickstart) on [Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse)
-
-* [t#3 [Feature Request] allow passing arguments](https://github.com/tomotaro1065/nodeclipse/issues/3)  
-* [n#2 on x64 windows doesn't find NodeJS dir automatically](https://github.com/Nodeclipse/nodeclipse/issues/2)
-
 ### 0.4 (May-June-July 2013)
 
-- JSquared Editor
 - When creating Node project and folder already exists, then add only .project file and don't add 3 files (README.md, hello-world-server.js, package.json)
 - Add Express Project in main menu under File -> New (in Node perspective)
+- Associate *.json files with JS Editor
+
+### 0.5 
+
+- JSquared Editor
 
 ### Next
 
