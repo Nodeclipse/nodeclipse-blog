@@ -135,7 +135,7 @@ Below is list that we know Nodeclipse can run on:
 
 ### Small issues
 
-Nodeclipse has no support for black background color schemes.
+Nodeclipse has no support for black background color schemes. [#15](https://github.com/Nodeclipse/nodeclipse-1/issues/15)
 
 ## Ideas
 
