@@ -30,8 +30,8 @@ We can't develop everything at once, but we let you know what are the best thing
 
 ## Installing
 
-Download site v0.1.8: http://www.nodeclipse.org/updates  
-Download site v>0.2 (Nodeclipse-1): http://www.tomotaro1065.com/nodeclipse/updates/
+Download site v0.1.8, v>0.3: <code>http://www.nodeclipse.org/updates</code>  
+Download site v>0.2 (Nodeclipse-1): <code>http://www.tomotaro1065.com/nodeclipse/updates/</code>  
 or via [Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse)
 
 ## Usage
