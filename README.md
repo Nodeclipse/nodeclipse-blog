@@ -48,20 +48,18 @@ For [Markdown](http://daringfireball.net/projects/markdown/dingus):
 
 # Developing & Contributing
 
-Until repositories updated, you can add issue to this blog repository.
-
 ## Repositories
 
 [Nodeclipse organization](https://github.com/Nodeclipse/) has several [repositories](https://github.com/Nodeclipse/repositories).
  Use star to vote on what feature/repository, you think is most important.
 
 Main effort is Nodeclipse-1 Eclipse plugin. 
-[https://github.com/Nodeclipse/nodeclipse-1](https://github.com/Nodeclipse/nodeclipse-1) v0.2
+[https://github.com/Nodeclipse/nodeclipse-1](https://github.com/Nodeclipse/nodeclipse-1) v>0.2
  (and expected 0.3) by Tomoyuki Inagaki; in development;  
- web-site [http://www.tomotaro1065.com/nodeclipse/](http://www.tomotaro1065.com/nodeclipse/)
+ web-site 1 [http://www.tomotaro1065.com/nodeclipse/](http://www.tomotaro1065.com/nodeclipse/)  
+ web-site 2 [http://www.nodeclipse.org/](http://www.nodeclipse.org/)  
 
-Old repository [https://github.com/Nodeclipse/nodeclipse/](https://github.com/Nodeclipse/nodeclipse/) v0.1.8 by LambGao; update 4 months ago;  
- web-site [http://www.nodeclipse.org/](http://www.nodeclipse.org/)
+Old repository [https://github.com/Nodeclipse/nodeclipse/](https://github.com/Nodeclipse/nodeclipse/) v0.1.8 by LambGao; update 4 months ago  
  
 Currently we focus on collecting ideas, and getting users feedback. 
  For that we promote our project in developers communities and to our friends.
