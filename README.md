@@ -110,6 +110,7 @@ Below is list that we know Nodeclipse can run on:
 - JBoss Developer Studio version 6.0.0.GA
 - eclipse-platform-4.3M6
 - Aptana Studio (with background color changed, see [#15](https://github.com/Nodeclipse/nodeclipse-1/issues/15) )
+- Zend Studio 10.0
 
 *If your work configuration used with Nodeclipse is different, please let us know*
 
