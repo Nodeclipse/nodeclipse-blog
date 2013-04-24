@@ -1,7 +1,25 @@
 
+## Code Assist
+
+Since 0.4 there is option to have
+ [completions.json](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.ui/src/org/nodeclipse/ui/contentassist/completions.json)
+ as external file. You can adjust code templates, then just go to Preferences -> Nodeclipse, and point Completions.json Path: to your local file.  
+Please share your changes with other users. [Contact us](https://github.com/Nodeclipse/nodeclipse-1#contacts).  
+
+## Recommendations
+
+### Sources
+
+Put all sources under <code>src</code> folder.
+
+This will help to separate project code from libraries code.
+
+Or even better organize as <code>src/main</code> and <code>src/test</code>
+
+
 ## VJET
 
-Paul has tried [VJET](http://eclipse.org/vjet/) together with Nodeclipse.
+Paul has tried [VJET](http://eclipse.org/vjet/) 0.10.0 together with Nodeclipse.
 
 ![node-vjet-perspective-switching.PNG](Pictures/node-vjet-perspective-switching.PNG)
 
@@ -72,14 +90,4 @@ But with vjet nature, it again gets blurred, after packages download into <code>
 ### VJET conclusion
 
 Only editor can do some help.
-
-## Recommendations
-
-### Sources
-
-Put all sources under <code>src</code> folder.
-
-This will help to separate project code from libraries code.
-
-Or even better organize as <code>src/main</code> and <code>src/test</code>
 
