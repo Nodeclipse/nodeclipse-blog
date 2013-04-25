@@ -115,21 +115,7 @@ Below is list that we know Nodeclipse can run on:
 
 ## Roadmap
 
-### 0.4 (May-June-July 2013)
-
-- When creating Node project and folder already exists, then add only .project file and don't add 3 files (README.md, hello-world-server.js, package.json)
-- Add Express Project in main menu under File -> New (in Node perspective)
-- Associate *.json files with JS Editor
-
-### 0.5 
-
-- JSquared Editor
-
-### Next
-
-* [t#4 [Low priority enhancement] Option to Run project default module (taken from package.json), 
- when righ-clicking project folder](https://github.com/tomotaro1065/nodeclipse/issues/4)
-
+See [Nodeclipse-1 roadmap](https://github.com/Nodeclipse/nodeclipse-1/#roadmap)
 
 ## Known Issues and Limitations
 
