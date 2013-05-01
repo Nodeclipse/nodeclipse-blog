@@ -8,6 +8,7 @@ We got **150+** installs in the first week on [Eclipse Marketplace](http://marke
 nodeclipse-1 moved to [https://github.com/Nodeclipse/nodeclipse-1](https://github.com/Nodeclipse/nodeclipse-1)    
 April 10th: We are in TOP100 on Marketplace!  
 April 24th: We are in TOP50 on Marketplace!  
+1072 installs only through Marketplace client in April.
 
 Check also [blog itself](https://github.com/Nodeclipse/nodeclipse-blog/blob/master/Blog.md) and 
  Eclipse Node IDE [Hints](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md)
