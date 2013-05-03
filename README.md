@@ -9,7 +9,9 @@ nodeclipse-1 moved to [https://github.com/Nodeclipse/nodeclipse-1](https://githu
 April 10th: We are in TOP100 on Marketplace!  
 April 24th: We are in TOP50 on Marketplace!  
 1072 installs only through Marketplace client in April.  
-May 1st 2013, Adam Schmideg & Formula/400 have blessed Nodeclipse to be new home for CoffeeScript Editor.  
+May 1st 2013, Adam Schmideg & Formula/400 have blessed Nodeclipse to be new home for CoffeeScript Editor. 
+May 3rd 2013, Node Tool Suite aka NTS (Eclipse distribution with Nodeclipse-1 & Enide solution)
+is release on [SourceForge.net](http://sourceforge.net/projects/nodeclipse/)
 
 Check also [blog itself](https://github.com/Nodeclipse/nodeclipse-blog/blob/master/Blog.md) and 
  Eclipse Node IDE [Hints](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md)
