@@ -91,7 +91,8 @@ into running Eclipse (for Indigo, Juno or Kepler).
 #### Enide
 
 [Eclipse Node.js IDE project (aka Enide)](https://github.com/Nodeclipse/eclipse-node-ide) 
- is for [distributing](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide/click) Nodeclipse together with other plugins.
+ is for[distributing](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide/click) Nodeclipse together with other plugins.  
+See it on [Marketplace](http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide)
 
 #### NTS
 
