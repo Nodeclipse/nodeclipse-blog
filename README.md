@@ -73,6 +73,8 @@ We are to come to regular releases in the future. But for now it is about shapin
 
 ## Distribution
 
+#### Nodeclipse-1 Eclipse plugins
+
 Update sites:
 
 Download site v0.1.8: <code>http://www.nodeclipse.org/updates</code>  
@@ -91,7 +93,10 @@ into running Eclipse (for Indigo, Juno or Kepler).
 [https://github.com/Nodeclipse/eclipse-node-ide](https://github.com/Nodeclipse/eclipse-node-ide) repository (aka Enide)
  is for [distributing](https://raw.github.com/Nodeclipse/eclipse-node-ide/master/EclipseNodeIDE-0.2.p2f) Nodeclipse together with other plugins.
 
-Eclipse distribution called [Node on Eclipse Studio (NES)](https://github.com/Nodeclipse/Node-Eclipse-Studio) is under investigation.
+#### NTS
+
+Node Tool Suite aka NTS (Eclipse distribution with Nodeclipse-1 & Enide solution)
+is available on [SourceForge.net](http://sourceforge.net/projects/nodeclipse/)
 
 For organization questions, create issue or send [email to dev group](mailto:dev@nodeclipse.org?subject=Nodeclipse-blog - Question
 &body=I have pressed link in Nodeclipse-blog). 
