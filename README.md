@@ -121,6 +121,15 @@ Below is list that we know Nodeclipse can run on:
 - Aptana Studio (with background color changed, see [#15](https://github.com/Nodeclipse/nodeclipse-1/issues/15) )
 - Zend Studio 10.0
 
+### Testing 0.4
+
+- on Indigo and Juno ( on on Ubuntsu and Mac OS X 10.6 )
+- 1) GGTS 3.1, based on Eclipse 3.8 (on Windows)
+- 2) Eclipse for RCP and RAP Developers Juno SR2 (on Windows)
+- 3) STS 3.2 Eclipse 3.8.2) (on Windows)
+- 4) STS 2.9.1 (Eclipse 3.7.2) (on Windows)
+- 5)  Eclipse for JavaEE Developers (4.2.2) Juno (on Windows)
+
 *If your work configuration used with Nodeclipse is different, please let us know*
 
 ## Roadmap
