@@ -12,10 +12,11 @@ April 24th: We are in TOP50 on Marketplace!
 May 1st 2013, Adam Schmideg & Formula/400 have blessed Nodeclipse to be new home for CoffeeScript Editor.  
 May 3rd 2013, Node Tool Suite aka NTS (Eclipse distribution with Nodeclipse-1 & Enide solution)
 is release on [SourceForge.net](http://sourceforge.net/projects/nodeclipse/)  
-2013-05-19 Nodeclipse 0.4 is reelased. 
-2013-05-23 There was slow Internet connection, and deny of service ("No repository found" message in Eclipse)
+2013-05-19 Nodeclipse 0.4 is released.  
+2013-05-23 There was slow Internet connection, <font size="2">and deny of service ("No repository found" message in Eclipse)
  around period from 2012-05-22 21:00 UTC to 2012-05-23 9:30 UTC. This should be related to cloud provider hosting GitHub pages.
-  Please report if you are unable to install. We look carefully.   
+  Please report if you are unable to install.</font> We look carefully.   
+
 
 Check also [blog itself](https://github.com/Nodeclipse/nodeclipse-blog/blob/master/Blog.md) and 
  Eclipse Node IDE [Hints](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md)
