@@ -58,6 +58,8 @@ For [Markdown](http://daringfireball.net/projects/markdown/dingus):
 
 # Developing & Contributing
 
+Check [nodeclipse.github.io](http://nodeclipse.github.io/)
+
 ## Repositories
 
 [Nodeclipse organization](https://github.com/Nodeclipse/) has several [repositories](https://github.com/Nodeclipse/repositories).
