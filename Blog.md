@@ -1,10 +1,23 @@
+# Blog
 
+## What's new in Eclipse 4.3 Kepler
+
+Open [this link](http://127.0.0.1:59303/help/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2FwhatsNew%2Fplatform_whatsnew.html&cp=0_6)
+ after starting [Eclipe Kepler](http://www.eclipse.org/downloads/index-developer.php), or just Help -> Help Contents
+or Help -> Welcome
+
+- Better multi-monitor support with Detached windows 
+- Performance enhancements
+- Initial Eclipse 4 API released
+
+<!-- 
 ## Code Assist
 
 Since 0.4 there is option to have
  [completions.json](https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.ui/src/org/nodeclipse/ui/contentassist/completions.json)
  as external file. You can adjust code templates, then just go to Preferences -> Nodeclipse, and point Completions.json Path: to your local file.  
 Please share your changes with other users. [Contact us](https://github.com/Nodeclipse/nodeclipse-1#contacts).  
+-->
 
 ## Recommendations
 
