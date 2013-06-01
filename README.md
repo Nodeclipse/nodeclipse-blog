@@ -16,7 +16,7 @@ is release on [SourceForge.net](http://sourceforge.net/projects/nodeclipse/)
 2013-05-23 There was slow Internet connection, <font size="2">and deny of service ("No repository found" message in Eclipse)
  around period from 2012-05-22 21:00 UTC to 2012-05-23 9:30 UTC. This should be related to cloud provider hosting GitHub pages.
   Please report if you are unable to install.</font> We look carefully.   
-
+1318 installs only through Marketplace client in May, TOP40 with position 38.  
 
 Check also [blog itself](https://github.com/Nodeclipse/nodeclipse-blog/blob/master/Blog.md) and 
  Eclipse Node IDE [Hints](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md)
