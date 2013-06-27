@@ -17,6 +17,7 @@ is release on [SourceForge.net](http://sourceforge.net/projects/nodeclipse/)
  around period from 2012-05-22 21:00 UTC to 2012-05-23 9:30 UTC. This should be related to cloud provider hosting GitHub pages.
   Please report if you are unable to install.</font> We look carefully.   
 1318 installs only through Marketplace client in May, TOP40 with position 38.  
+2013-06-27 [Nodeclipse NTS 0.4.10 was released](http://www.nodeclipse.org/nts/).
 
 Check also [blog itself](https://github.com/Nodeclipse/nodeclipse-blog/blob/master/Blog.md) and 
  Eclipse Node IDE [Hints](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md)
