@@ -18,6 +18,15 @@ is release on [SourceForge.net](http://sourceforge.net/projects/nodeclipse/)
   Please report if you are unable to install.</font> We look carefully.   
 1318 installs only through Marketplace client in May, TOP40 with position 38.  
 2013-06-27 [Nodeclipse NTS 0.4.10 was released](http://www.nodeclipse.org/nts/).
+June results:  
+- Nodeclipse 304 clickthroughs, 1763 installs with 32 rank on Marketplace 1% of all Marketplace installs, 
+- Enide 3496 clickthroughs. It is hard to say number of installs
+ because some users maybe don't want to install this ways,
+ while others can use the file to install on all machines in their company.
+- Nodeclipse got 16 clickthroughs and ignorable istalls. While once again own Eclipse distribution
+ is not what user wanted (at least as it seems after several days), this time it goes with all popular Enide plugins set. And because Enide 
+ has run into bug in new Eclipse Kepler. So for those wanting to save time installing all plugins on Kepler,
+ ready to use NTS is good option. Downloadin one big file SourceForge may be quicker that installing 13 plugins from different updates sites.
 
 Check also [blog itself](https://github.com/Nodeclipse/nodeclipse-blog/blob/master/Blog.md) and 
  Eclipse Node IDE [Hints](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md)
