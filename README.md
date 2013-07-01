@@ -17,13 +17,13 @@ is release on [SourceForge.net](http://sourceforge.net/projects/nodeclipse/)
  around period from 2012-05-22 21:00 UTC to 2012-05-23 9:30 UTC. This should be related to cloud provider hosting GitHub pages.
   Please report if you are unable to install.</font> We look carefully.   
 1318 installs only through Marketplace client in May, TOP40 with position 38.  
-2013-06-27 [Nodeclipse NTS 0.4.10 was released](http://www.nodeclipse.org/nts/).
+2013-06-27 [Nodeclipse NTS 0.4.10 was released](http://www.nodeclipse.org/nts/).  
 June results:  
 - Nodeclipse 304 clickthroughs, 1763 installs with 32 rank on Marketplace 1% of all Marketplace installs, 
-- Enide 3496 clickthroughs. It is hard to say number of installs
+- [Enide](http://www.nodeclipse.org/enide) 3496 clickthroughs. It is hard to say number of installs
  because some users maybe don't want to install this ways,
  while others can use the file to install on all machines in their company.
-- Nodeclipse got 16 clickthroughs and 49 istalls. While once again own Eclipse distribution
+- [Nodeclipse NTS](http://www.nodeclipse.org/nts/) got 16 clickthroughs and 49 installs. While once again own Eclipse distribution
  is not what most users want (at least as it seems after several days), this time it goes with all popular Enide plugins set. And because Enide 
  has run into bug in new Eclipse Kepler. So for those wanting to save time installing all plugins on Kepler,
  ready to use NTS is good option. Downloading one big file from SourceForge may be quicker that installing 13 plugins from different updates sites.
@@ -50,9 +50,14 @@ We can't develop everything at once, but we let you know what are the best thing
 
 ## Installing
 
+via [Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse)
+<a href="http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=759140"
+ title="Drag and drop into a running Eclipse to install Nodeclipse">
+   <img src="http://marketplace.eclipse.org/sites/all/modules/custom/marketplace/images/installbutton.png"/>
+   </a>
+or 					   
 Download site v0.1.8, v>0.3: <code>http://www.nodeclipse.org/updates</code>  
 Download site v>0.2 (Nodeclipse-1): <code>http://www.tomotaro1065.com/nodeclipse/updates/</code>  
-or via [Eclipse Marketspace](http://marketplace.eclipse.org/content/nodeclipse)
 
 ## Usage
 
