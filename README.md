@@ -23,7 +23,8 @@ June results:
 - [Enide](http://www.nodeclipse.org/enide) 3496 clickthroughs. It is hard to say number of installs
  because some users maybe don't want to install this ways,
  while others can use the file to install on all machines in their company.
-- [Nodeclipse NTS](http://www.nodeclipse.org/nts/) got 16 clickthroughs and 49 installs. While once again own Eclipse distribution
+- [Nodeclipse NTS](http://www.nodeclipse.org/nts/) got 16 clickthroughs and
+ [49 installs](http://sourceforge.net/projects/nodeclipse/files/stats/timeline?dates=2013-01-01+to+2013-07-14). While once again own Eclipse distribution
  is not what most users want (at least as it seems after several days), this time it goes with all popular Enide plugins set. And because Enide 
  has run into bug in new Eclipse Kepler. So for those wanting to save time installing all plugins on Kepler,
  ready to use NTS is good option. Downloading one big file from SourceForge may be quicker that installing 13 plugins from different updates sites.
