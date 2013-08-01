@@ -18,16 +18,49 @@ is release on [SourceForge.net](http://sourceforge.net/projects/nodeclipse/)
   Please report if you are unable to install.</font> We look carefully.   
 1318 installs only through Marketplace client in May, TOP40 with position 38.  
 2013-06-27 [Nodeclipse NTS 0.4.10 was released](http://www.nodeclipse.org/nts/).  
-June results:  
-- Nodeclipse 304 clickthroughs, 1763 installs with 32 rank on Marketplace 1% of all Marketplace installs, 
-- [Enide](http://www.nodeclipse.org/enide) 3496 clickthroughs. It is hard to say number of installs
- because some users maybe don't want to install this ways,
- while others can use the file to install on all machines in their company.
-- [Nodeclipse NTS](http://www.nodeclipse.org/nts/) got 16 clickthroughs and
- [49 installs](http://sourceforge.net/projects/nodeclipse/files/stats/timeline?dates=2013-01-01+to+2013-07-14). While once again own Eclipse distribution
- is not what most users want (at least as it seems after several days), this time it goes with all popular Enide plugins set. And because Enide 
- has run into bug in new Eclipse Kepler. So for those wanting to save time installing all plugins on Kepler,
- ready to use NTS is good option. Downloading one big file from SourceForge may be quicker that installing 13 plugins from different updates sites.
+
+ * June results:  
+	 - Nodeclipse 304 clickthroughs, 1763 installs with 32 rank on Marketplace 1% of all Marketplace installs, 
+	 - [Enide](http://www.nodeclipse.org/enide) 3496 clickthroughs. It is hard to say number of installs
+	 because some users maybe don't want to install this ways,
+	 while others can use the file to install on all machines in their company.
+	 - [Nodeclipse NTS](http://www.nodeclipse.org/nts/) got 16 clickthroughs and
+	 [49 installs](http://sourceforge.net/projects/nodeclipse/files/stats/timeline?dates=2013-01-01+to+2013-07-14). While once again own Eclipse distribution
+	 is not what most users want (at least as it seems after several days), this time it goes with all popular Enide plugins set. And because Enide 
+	 has run into bug in new Eclipse Kepler. So for those wanting to save time installing all plugins on Kepler,
+	 ready to use NTS is good option. Downloading one big file from SourceForge may be quicker that installing 13 plugins from different updates sites.
+ * July results:  
+<table cellpadding="5">
+<tr>
+  <th>Solution</th>
+  <th>Clickthroughs</th>
+  <th>Installs</th>
+  <th>Rank</th>
+  <th>Notes</th>
+</tr>
+<tr>
+  <td valign="top">Nodeclipse</td>
+  <td valign="top">285</td>
+  <td valign="top">2183 ( 1% )</td>
+  <td valign="top">31 / 660</td>
+  <td/>
+</tr>
+<tr>
+  <td valign="top">Enide</td>
+  <td valign="top">4457</td>
+  <td valign="top">?</td>
+  <td valign="top">?</td>
+  <td valign="top">Not useful in Eclipse 4.3 Kepler (only as information source)</td>
+  <td/>
+</tr>
+<tr>
+  <td valign="top">Nodeclipse NTS</td>
+  <td valign="top">48</td>
+  <td valign="top"><a href="http://sourceforge.net/projects/nodeclipse/files/stats/timeline?dates=2013-07-01+to+2013-07-31">725</a></td>
+  <td valign="top">?</td>
+  <td/>
+</tr>
+</table> 
 
 Check also [blog itself](https://github.com/Nodeclipse/nodeclipse-blog/blob/master/Blog.md) and 
  Eclipse Node IDE [Hints](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md)
