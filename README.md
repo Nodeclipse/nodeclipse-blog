@@ -176,6 +176,7 @@ Below is list that we know Nodeclipse can run on:
 - eclipse-platform-4.3M6
 - Aptana Studio (with background color changed, see [#15](https://github.com/Nodeclipse/nodeclipse-1/issues/15) )
 - Zend Studio 10.0
+- Adobe Flash Builder 4.7
 
 ### Testing 0.4
 
