@@ -57,7 +57,60 @@ is release on [SourceForge.net](http://sourceforge.net/projects/nodeclipse/)
   <td valign="top">Nodeclipse NTS</td>
   <td valign="top">48</td>
   <td valign="top"><a href="http://sourceforge.net/projects/nodeclipse/files/stats/timeline?dates=2013-07-01+to+2013-07-31">725</a></td>
+  <td valign="top">USA 17%</td>
+  <td/>
+</tr>
+</table> 
+
+ * August results:  
+<table cellpadding="5">
+<tr>
+  <th>Solution</th>
+  <th>Clickthroughs</th>
+  <th>Installs</th>
+  <th>Rank</th>
+  <th>Notes</th>
+</tr>
+<tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/nodeclipse">Nodeclipse</a></td>
+  <td valign="top">317</td>
+  <td valign="top">2245 ( 1% )</td>
+  <td valign="top">24 / 662</td>
+  <td/>
+</tr>
+<tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide">Enide</a></td>
+  <td valign="top">4963</td>
   <td valign="top">?</td>
+  <td valign="top">?</td>
+  <td valign="top">Not useful in Eclipse 4.3 Kepler (only as information source)</td>
+  <td/>
+</tr>
+<tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/nodeclipse-nts">Nodeclipse NTS</a></td>
+  <td valign="top">32</td>
+  <td valign="top"><a href="http://sourceforge.net/projects/nodeclipse/files/stats/timeline?dates=2013-08-01+to+2013-08-30">824</a></td>
+  <td valign="top">China 21%</td>
+  <td/>
+</tr>
+<tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/nodeclipse-coffeescript-editor">CoffeeScript Editor</a></td>
+  <td valign="top">13</td>
+  <td valign="top">161</td>
+  <td valign="top">188 / 662</td>
+  <td/>
+</tr><tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin-update-site">GFM VIew</a></td>
+  <td valign="top">32</td>
+  <td valign="top">572</td>
+  <td valign="top">83 / 662</td>
+  <td/>
+</tr>
+<tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/nodeclipse-git-addon">Git Addon</a></td>
+  <td valign="top">30</td>
+  <td valign="top">326</td>
+  <td valign="top">132 / 662</td>
   <td/>
 </tr>
 </table> 
