@@ -115,6 +115,59 @@ is release on [SourceForge.net](http://sourceforge.net/projects/nodeclipse/)
 </tr>
 </table> 
 
+ * September stats:  
+<table cellpadding="5">
+<tr>
+  <th>Solution</th>
+  <th>Clickthroughs</th>
+  <th>Installs</th>
+  <th>Rank</th>
+  <th>Notes</th>
+</tr>
+<tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/nodeclipse">Nodeclipse</a></td>
+  <td valign="top">330</td>
+  <td valign="top">1917 ( 1% )</td>
+  <td valign="top">30 / 668</td>
+  <td/>
+</tr>
+<tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide">Enide</a></td>
+  <td valign="top">7269</td>
+  <td valign="top">?</td>
+  <td valign="top">?</td>
+  <td valign="top">Not useful in Eclipse 4.3 Kepler (only as information source)</td>
+  <td/>
+</tr>
+<tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/nodeclipse-nts">Nodeclipse NTS / Enide Studio</a></td>
+  <td valign="top">5+15+50</td>
+  <td valign="top"><a href="http://sourceforge.net/projects/nodeclipse/files/stats/timeline?dates=2013-09-01+to+2013-09-30">1,038</a></td>
+  <td valign="top">USA 16%</td>
+  <td/>
+</tr>
+<tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/nodeclipse-coffeescript-editor">CoffeeScript Editor</a></td>
+  <td valign="top">2350</td>
+  <td valign="top">311</td>
+  <td valign="top">132 / 668</td>
+  <td/>
+</tr><tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin-update-site">GFM VIew</a></td>
+  <td valign="top">17</td>
+  <td valign="top">585</td>
+  <td valign="top">82 / 668</td>
+  <td/>
+</tr>
+<tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/nodeclipse-git-addon">Git Addon</a></td>
+  <td valign="top">5</td>
+  <td valign="top">400</td>
+  <td valign="top">110 / 668</td>
+  <td/>
+</tr>
+</table> 
+
 Check also [blog itself](https://github.com/Nodeclipse/nodeclipse-blog/blob/master/Blog.md) and 
  Eclipse Node IDE [Hints](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md)
 
