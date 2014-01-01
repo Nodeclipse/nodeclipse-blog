@@ -168,6 +168,63 @@ is release on [SourceForge.net](http://sourceforge.net/projects/nodeclipse/)
 </tr>
 </table> 
 
+Nodeclipse became #1 in [Eclipse Top 10 NEW Plugins for 2013](http://www.eclipse.org/community/eclipse_newsletter/2013/december/article2.php)
+
+
+ * December 2013 stats:  
+<table cellpadding="5">
+<tr>
+  <th>Solution</th>
+  <th>Clickthroughs</th>
+  <th>Installs</th>
+  <th>Rank</th>
+  <th>Notes</th>
+</tr>
+<tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/nodeclipse">Nodeclipse</a></td>
+  <td valign="top">287</td>
+  <td valign="top">740</td>
+  <td valign="top">62 / 685</td>
+  <td/>
+</tr>
+<tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide">Enide</a></td>
+  <td valign="top">6523</td>
+  <td valign="top">1588 </td>
+  <td valign="top">28 / 685</td>
+  <td valign="top">Not useful in Eclipse 4.3 Kepler (only as information source)</td>
+  <td/>
+</tr>
+<tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/nodeclipse-nts">Nodeclipse NTS / Enide Studio</a></td>
+  <td valign="top">?</td>
+  <td valign="top"><a href="http://sourceforge.net/projects/nodeclipse/files/stats/timeline?dates=2013-12-01+to+2013-12-31">6,674</a></td>
+  <td valign="top">Brazil 80%</td>
+  <td/>
+</tr>
+<tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/nodeclipse-coffeescript-editor">CoffeeScript Editor</a></td>
+  <td valign="top">12</td>
+  <td valign="top">206</td>
+  <td valign="top">159 / 685</td>
+  <td/>
+</tr><tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/github-flavored-markdown-viewer-plugin">GFM VIew</a></td>
+  <td valign="top">15</td>
+  <td valign="top">456</td>
+  <td valign="top">86 / 685</td>
+  <td/>
+</tr>
+<tr>
+  <td valign="top"><a href="http://marketplace.eclipse.org/content/nodeclipse-git-addon">Git Addon</a></td>
+  <td valign="top">10</td>
+  <td valign="top">260</td>
+  <td valign="top">139 / 685</td>
+  <td/>
+</tr>
+</table> 
+
+
 Check also [blog itself](https://github.com/Nodeclipse/nodeclipse-blog/blob/master/Blog.md) and 
  Eclipse Node IDE [Hints](https://github.com/Nodeclipse/eclipse-node-ide/blob/master/Hints.md)
 
