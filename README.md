@@ -168,10 +168,10 @@ is release on [SourceForge.net](http://sourceforge.net/projects/nodeclipse/)
 </tr>
 </table> 
 
+### December 2013 
+
 Nodeclipse became #1 in [Eclipse Top 10 NEW Plugins for 2013](http://www.eclipse.org/community/eclipse_newsletter/2013/december/article2.php)
 
-
- * December 2013 stats:  
 <table cellpadding="5">
 <tr>
   <th>Solution</th>
