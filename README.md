@@ -189,10 +189,10 @@ Nodeclipse became #1 in [Eclipse Top 10 NEW Plugins for 2013](http://www.eclipse
 </tr>
 <tr>
   <td valign="top"><a href="http://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide">Enide</a></td>
-  <td valign="top">6523</td>
+  <td valign="top">10567</td>
   <td valign="top">1588 </td>
   <td valign="top">28 / 685</td>
-  <td valign="top">Not useful in Eclipse 4.3 Kepler (only as information source)</td>
+  <td valign="top"></td>
   <td/>
 </tr>
 <tr>
@@ -223,6 +223,9 @@ Nodeclipse became #1 in [Eclipse Top 10 NEW Plugins for 2013](http://www.eclipse
   <td/>
 </tr>
 </table> 
+
+
+https://bintray.com/nodeclipse/nodeclipse/nodeclipse-1/statistics
 
 
 Check also [blog itself](https://github.com/Nodeclipse/nodeclipse-blog/blob/master/Blog.md) and 
